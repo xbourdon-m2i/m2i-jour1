@@ -1,5 +1,4 @@
 # m2i-jour1
 
+Mon fichier ridme
 Nouvelle information
-Mon fichier reedme
-Ajout d'une nouvelle ligne

@@ -1,4 +1,5 @@
 # m2i-jour1
 
-Mon fichier readme
+Mon fichier ridme
 Nouvelle information
+
